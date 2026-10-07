@@ -1,0 +1,165 @@
+{
+  "assets": [
+    {
+      "path": "assets/scenes/01.png",
+      "role": "楼梯回头",
+      "source": "快闪/exec-40fced3f-deef-4dde-af91-34581f6bd8a1.png",
+      "sha256": "d8bd9d2a847590316f449e4afb046b74ef2856137fcee06291d1773f59129a27",
+      "bytes": 2014673
+    },
+    {
+      "path": "assets/scenes/02.png",
+      "role": "路牌旁手持墨镜",
+      "source": "快闪/exec-60439ea8-218e-4205-8aa1-8a4e5a81dab6.png",
+      "sha256": "5987760d2a59a226ea64e74da036fac3a065687f37351b4d1607c8a4c948aa15",
+      "bytes": 2080117
+    },
+    {
+      "path": "assets/scenes/03.png",
+      "role": "俯拍楼梯行走",
+      "source": "快闪/exec-f22a3cef-befa-4266-9db7-0eaa29a0f928.png",
+      "sha256": "daff82cf139e06d436a111dfb83fd36c650daa0ede014c3e2bc5eec312c947ed",
+      "bytes": 2079400
+    },
+    {
+      "path": "assets/scenes/04.png",
+      "role": "央视楼低机位正侧",
+      "source": "快闪/exec-92f37cb9-02e1-4ed2-8db8-979e3e6adc07.png",
+      "sha256": "a3cf1b64795ee6d2da4de0e76de29e44abe7f98853fda93042eac3b1669060c5",
+      "bytes": 1956430
+    },
+    {
+      "path": "assets/scenes/05.png",
+      "role": "央视楼低机位回头",
+      "source": "快闪/exec-a5c23793-12a6-4b6c-97bd-4a9e862c72d4.png",
+      "sha256": "ac4103d6107c97907a073eff7997e0f4dbf4b99b9f63b822d80e58d54a2dbef2",
+      "bytes": 1923362
+    },
+    {
+      "path": "assets/scenes/06.png",
+      "role": "室内走廊近景",
+      "source": "快闪/exec-461d80e6-2c32-428a-896e-0efe5f7f434e.png",
+      "sha256": "0f211e20eda95255e8be3aac53f825b49653ae6eeeb88a4d7cf5c8b56b2e42a1",
+      "bytes": 1983205
+    },
+    {
+      "path": "assets/scenes/07.png",
+      "role": "路牌旁戴墨镜",
+      "source": "快闪/exec-c20c62f9-2ffd-4e06-939d-9028983f3a71.png",
+      "sha256": "cc407009ba355d57132ba216ccd628bfd04fb57c376e285a4ed2c354da2de9ad",
+      "bytes": 2055470
+    },
+    {
+      "path": "assets/scenes/08.png",
+      "role": "金属墙墨镜近景",
+      "source": "快闪/exec-5eed31a7-c6f8-45e5-9400-0fe22aa17c00.png",
+      "sha256": "4ea43c79bf0bf790302454307dc25b2e0ff4860921b4fdf4b10267b3c4ef19b1",
+      "bytes": 1869879
+    },
+    {
+      "path": "assets/scenes/09.png",
+      "role": "扶梯拿咖啡",
+      "source": "快闪/exec-384ed517-91d8-448e-a756-d68d17c5651b.png",
+      "sha256": "1b03f6c65b6c10422605da8707a94c0a891e7647b3c426f86a6059d1f67fef2f",
+      "bytes": 1853118
+    },
+    {
+      "path": "assets/scenes/10.png",
+      "role": "绿色5号墙人像",
+      "source": "快闪/exec-b649a3fc-130d-40bf-9ba6-7168a2737f55.png",
+      "sha256": "9d42cb7509b4cf4dba0ef76d11c654160974bb941100314875dcd5f5d1db9feb",
+      "bytes": 1728917
+    },
+    {
+      "path": "assets/scenes/11.png",
+      "role": "楼梯平台全身",
+      "source": "快闪/exec-b846c64e-079f-4a35-8fe0-3d0e474e05e2.png",
+      "sha256": "3505fdffff1d0737268f590b69cb4253ea08bc10358427b366f5fff7a2ace3b2",
+      "bytes": 2056094
+    },
+    {
+      "path": "assets/scenes/12.png",
+      "role": "室内走廊全身",
+      "source": "快闪/exec-50751214-c032-4c80-b0fa-06768ee8ea80.png",
+      "sha256": "21fc90098f11664b06d73b4b4345ac25a3a8233c38983f805805e48b9cd52ac4",
+      "bytes": 1768382
+    },
+    {
+      "path": "assets/reference-final-v3.mp4",
+      "role": "历史v3对比参考；默认模板已更新至v5",
+      "source": "卡点视频成片/final_v3.mp4",
+      "sha256": "be77476b6dcbe0c69b52c70e81b2f40570effc57ff10b19bfae566b372c5f9b0",
+      "bytes": 7246798
+    },
+    {
+      "path": "assets/opening-full-v3.mp4",
+      "role": "历史v3对比参考；默认模板已更新至v5",
+      "source": "开头参考/2dd6a2a94c7a5be8.mp4",
+      "sha256": "f8943146a3d6e4ba34918f89280ed9fbf025fb0a5a4cad5d1b939dae094605a7",
+      "bytes": 14005896
+    },
+    {
+      "path": "assets/luke-march.m4a",
+      "role": "用户提供的原始固定音乐，禁止替换或改速",
+      "source": "Luke进行曲/Luke进行曲.m4a",
+      "sha256": "409b094f2219d20941a36c0eeb9e5bf0c464395ad7d6a1f3589454054932a0e3",
+      "bytes": 85908
+    },
+    {
+      "path": "assets/opening-v1-silent.mp4",
+      "role": "用户替换后提供的旧版开头参考；最终气场以v3为准",
+      "source": "Luke进行曲/女生街拍扶墨镜_无声.mp4",
+      "sha256": "9cf18c7bb3b11f466ef9178d983ee946b2a70576c57fab41231432f723193a61",
+      "bytes": 5622263
+    },
+    {
+      "path": "assets/examples/identity-example.png",
+      "role": "仅三视图版式示例，不是新用户身份或默认穿搭",
+      "source": "需要替换的人物及其穿搭/codex-clipboard-f21993f3-4a63-4437-9c5c-c5b44fddba66.png",
+      "sha256": "3751be4bce1022a4c70cf9a4fcb93c49d7b9b7b6bd8c3e1d4163577548f23176",
+      "bytes": 2255730
+    },
+    {
+      "path": "assets/examples/outfit-example.png",
+      "role": "仅三视图版式示例，不是新用户身份或默认穿搭",
+      "source": "需要替换的人物及其穿搭/codex-clipboard-d5599bc5-5a37-43d3-b543-caad55272c7d.png",
+      "sha256": "4d1d2ae5a231a349d6f4abbf841b93b64230f22b3dab879fdfc92875938a8182",
+      "bytes": 1943447
+    },
+    {
+      "path": "assets/opening-reference.mp4",
+      "role": "v5前154帧的御姐动作与固定背景",
+      "source": "derived: assets/reference-final-v5.mp4",
+      "sha256": "5047c7d72d4ea9b3b370411607cae4b230ce9b0e0338dc871c97c50242aa84bd",
+      "bytes": 3215584
+    },
+    {
+      "path": "assets/opening-scene.png",
+      "role": "默认起始状态：墨镜已佩戴在脸上，镜片覆盖眼睛",
+      "source": "derived: assets/opening-full-v5.mp4 frame 0",
+      "sha256": "2c90a0b0274e7759dc20c00b06cf98c4b7dbb79cdd5eeb0cbaf2b63b6e1d0630",
+      "bytes": 1870628
+    },
+    {
+      "path": "assets/preview.jpg",
+      "role": "README点击播放海报",
+      "source": "derived: assets/reference-final-v5.mp4",
+      "sha256": "fb847dbd99745ef684d731f268aae61e371f4e919e62d06f395cfa9e25aff4ca",
+      "bytes": 48398
+    },
+    {
+      "path": "assets/reference-final-v5.mp4",
+      "role": "v5默认成片；开头补齐1帧以恢复固定照片切点，总长630帧",
+      "source": "derived: final_v5.mp4 + original music; intro padded from 153 to 154 frames",
+      "sha256": "524dbd42b89e2fc3b04752cca19128c31a380c910a2caadd9f124fac86ac80ce",
+      "bytes": 6893047
+    },
+    {
+      "path": "assets/opening-full-v5.mp4",
+      "role": "v5默认抬镜直视模特步完整动作参考",
+      "source": "VidMuse v5 generation",
+      "sha256": "6630345b140cb64da557b8ad10845e5902031893617af2deee6009085a8102a9",
+      "bytes": 13713673
+    }
+  ]
+}

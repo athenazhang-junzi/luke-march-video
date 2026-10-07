@@ -1,0 +1,144 @@
+{
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "total_frames": 630,
+  "audio": "assets/luke-march.m4a",
+  "audio_start": 0,
+  "segments": [
+    {
+      "kind": "video",
+      "start_frame": 0,
+      "end_frame": 154,
+      "source_key": "opening"
+    },
+    {
+      "kind": "image",
+      "start_frame": 154,
+      "end_frame": 185,
+      "source_key": "scene_02",
+      "reference": "assets/scenes/02.png",
+      "label": "路牌旁手持墨镜"
+    },
+    {
+      "kind": "image",
+      "start_frame": 185,
+      "end_frame": 217,
+      "source_key": "scene_07",
+      "reference": "assets/scenes/07.png",
+      "label": "路牌旁戴墨镜"
+    },
+    {
+      "kind": "image",
+      "start_frame": 217,
+      "end_frame": 248,
+      "source_key": "scene_08",
+      "reference": "assets/scenes/08.png",
+      "label": "金属墙墨镜近景"
+    },
+    {
+      "kind": "image",
+      "start_frame": 248,
+      "end_frame": 280,
+      "source_key": "scene_04",
+      "reference": "assets/scenes/04.png",
+      "label": "央视楼低机位正侧"
+    },
+    {
+      "kind": "image",
+      "start_frame": 280,
+      "end_frame": 311,
+      "source_key": "scene_05",
+      "reference": "assets/scenes/05.png",
+      "label": "央视楼低机位回头"
+    },
+    {
+      "kind": "image",
+      "start_frame": 311,
+      "end_frame": 343,
+      "source_key": "scene_01",
+      "reference": "assets/scenes/01.png",
+      "label": "楼梯回头"
+    },
+    {
+      "kind": "image",
+      "start_frame": 343,
+      "end_frame": 374,
+      "source_key": "scene_03",
+      "reference": "assets/scenes/03.png",
+      "label": "俯拍楼梯行走"
+    },
+    {
+      "kind": "image",
+      "start_frame": 374,
+      "end_frame": 406,
+      "source_key": "scene_06",
+      "reference": "assets/scenes/06.png",
+      "label": "室内走廊近景"
+    },
+    {
+      "kind": "image",
+      "start_frame": 406,
+      "end_frame": 437,
+      "source_key": "scene_09",
+      "reference": "assets/scenes/09.png",
+      "label": "扶梯拿咖啡"
+    },
+    {
+      "kind": "image",
+      "start_frame": 437,
+      "end_frame": 469,
+      "source_key": "scene_10",
+      "reference": "assets/scenes/10.png",
+      "label": "绿色5号墙人像"
+    },
+    {
+      "kind": "image",
+      "start_frame": 469,
+      "end_frame": 500,
+      "source_key": "scene_11",
+      "reference": "assets/scenes/11.png",
+      "label": "楼梯平台全身"
+    },
+    {
+      "kind": "image",
+      "start_frame": 500,
+      "end_frame": 532,
+      "source_key": "scene_12",
+      "reference": "assets/scenes/12.png",
+      "label": "室内走廊全身"
+    },
+    {
+      "kind": "image",
+      "start_frame": 532,
+      "end_frame": 563,
+      "source_key": "scene_05",
+      "reference": "assets/scenes/05.png",
+      "label": "央视楼低机位回头"
+    },
+    {
+      "kind": "image",
+      "start_frame": 563,
+      "end_frame": 595,
+      "source_key": "scene_08",
+      "reference": "assets/scenes/08.png",
+      "label": "金属墙墨镜近景"
+    },
+    {
+      "kind": "image",
+      "start_frame": 595,
+      "end_frame": 626,
+      "source_key": "scene_07",
+      "reference": "assets/scenes/07.png",
+      "label": "路牌旁戴墨镜"
+    },
+    {
+      "kind": "image",
+      "start_frame": 626,
+      "end_frame": 630,
+      "source_key": "scene_05",
+      "reference": "assets/scenes/05.png",
+      "label": "央视楼低机位回头"
+    }
+  ]
+}

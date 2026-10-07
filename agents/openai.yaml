@@ -1,0 +1,4 @@
+interface:
+  display_name: "luke进行曲同款视频"
+  short_description: "上传人物照与穿搭图，自动生成三视图和固定场景的Luke进行曲卡点视频"
+  default_prompt: "使用 $luke-march-video，帮我用人物照和穿搭图制作luke进行曲同款视频。"
