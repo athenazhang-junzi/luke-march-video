@@ -1,0 +1,30 @@
+name: Import large video assets
+
+on:
+  push:
+    paths:
+      - .github/workflows/import-large-assets.yml
+
+permissions:
+  contents: write
+
+jobs:
+  import-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download exact upstream videos
+        run: |
+          curl -fL --retry 3 https://raw.githubusercontent.com/panggungunvibe/luke-march-video/main/assets/opening-full-v3.mp4 -o assets/opening-full-v3.mp4
+          curl -fL --retry 3 https://raw.githubusercontent.com/panggungunvibe/luke-march-video/main/assets/opening-full-v5.mp4 -o assets/opening-full-v5.mp4
+          printf '%s  %s\n' \
+            f8943146a3d6e4ba34918f89280ed9fbf025fb0a5a4cad5d1b939dae094605a7 assets/opening-full-v3.mp4 \
+            6630345b140cb64da557b8ad10845e5902031893617af2deee6009085a8102a9 assets/opening-full-v5.mp4 \
+            | sha256sum --check
+      - name: Commit imported videos
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/opening-full-v3.mp4 assets/opening-full-v5.mp4
+          git commit -m "Add opening full videos"
+          git push
